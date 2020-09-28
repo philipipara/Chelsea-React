@@ -2,24 +2,26 @@ import React from 'react';
 
 import './styles/cardStyle.css';
 import CardListItem from './CardListItem';
+import Reece from '../assets/images/reece.jpeg';
+import Werner from '../assets/images/werner.jpeg';
 
   
   const PlayerCard = (props) => {
      const data = [
          {  
              id: 1,
-             name: 'Callum Hudson Odio',
+             name: 'Callum Hudson Odoi',
              image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTWRmi9BgjuxNemi_dU_uXYP6wMngvuo3gxtQ&usqp=CAU'
          },
           {
              id: 2,
-             name: 'Chirstian Pulisic',
-             image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTWRmi9BgjuxNemi_dU_uXYP6wMngvuo3gxtQ&usqp=CAU'
+             name: 'Timo Werner',
+             image: Werner
          },
           {
              id: 3,
              name: 'Reece James',
-             image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTWRmi9BgjuxNemi_dU_uXYP6wMngvuo3gxtQ&usqp=CAU'
+             image: Reece
          }
         ]
     return (
