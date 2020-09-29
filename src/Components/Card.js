@@ -25,7 +25,7 @@ import Werner from '../assets/images/werner.jpeg';
          }
         ]
     return (
-        <div className='side'>
+        <div>
         {data.map(data => {
           return <CardListItem data={data} key={data.id} />;
         })}
