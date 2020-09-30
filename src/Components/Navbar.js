@@ -14,6 +14,9 @@ import {
   NavbarText
 } from 'reactstrap';
 
+import Logo from '../assets/images/logo.png';
+import './styles/navbarStyle.css';
+
 const Navigation = (props) => {
   const [isOpen, setIsOpen] = useState(false);
 
@@ -22,10 +25,10 @@ const Navigation = (props) => {
   return (
     <div>
       <Navbar color="transparent" light expand="md">
-        <NavbarBrand href="/">reactstrap</NavbarBrand>
+        <NavbarBrand href="/"><img className='logo' src={Logo} /></NavbarBrand>
         <NavbarToggler onClick={toggle} />
         <Collapse isOpen={isOpen} navbar>
-          <Nav className="mr-auto" navbar>
+          <Nav className="ml-auto" navbar>
             <NavItem>
               <NavLink href="/components/">Components</NavLink>
             </NavItem>
@@ -50,7 +53,7 @@ const Navigation = (props) => {
               </DropdownMenu>
             </UncontrolledDropdown>
           </Nav>
-          <NavbarText>Simple Text</NavbarText>
+          
         </Collapse>
       </Navbar>
     </div>
