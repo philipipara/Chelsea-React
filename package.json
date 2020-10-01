@@ -1,0 +1,19 @@
+{
+  "name": "chelsea",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/philipipara/Chelsea-React.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/philipipara/Chelsea-React/issues"
+  },
+  "homepage": "https://github.com/philipipara/Chelsea-React#readme"
+}
