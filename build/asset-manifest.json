@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e83077c1.chunk.css",
+    "main.js": "/static/js/main.4dfd2e92.chunk.js",
+    "main.js.map": "/static/js/main.4dfd2e92.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.dcf2d509.js",
+    "runtime-main.js.map": "/static/js/runtime-main.dcf2d509.js.map",
+    "static/js/2.94f45c91.chunk.js": "/static/js/2.94f45c91.chunk.js",
+    "static/js/2.94f45c91.chunk.js.map": "/static/js/2.94f45c91.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.204337d7aa549088a346fa6351487c1c.js": "/precache-manifest.204337d7aa549088a346fa6351487c1c.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.e83077c1.chunk.css.map": "/static/css/main.e83077c1.chunk.css.map",
+    "static/js/2.94f45c91.chunk.js.LICENSE.txt": "/static/js/2.94f45c91.chunk.js.LICENSE.txt",
+    "static/media/cech.jpg": "/static/media/cech.d363faaf.jpg",
+    "static/media/chillwell.jpg": "/static/media/chillwell.003a25ec.jpg",
+    "static/media/footer.jpeg": "/static/media/footer.58833cb5.jpeg",
+    "static/media/goal.jpg": "/static/media/goal.6ceca976.jpg",
+    "static/media/havertz.jpg": "/static/media/havertz.20859d67.jpg",
+    "static/media/logo.png": "/static/media/logo.04edc6ed.png",
+    "static/media/mendy.jpg": "/static/media/mendy.5c43376d.jpg",
+    "static/media/pulisic.jpg": "/static/media/pulisic.8901c1b3.jpg",
+    "static/media/reece.jpeg": "/static/media/reece.0b773d4c.jpeg",
+    "static/media/womens.jpg": "/static/media/womens.c6ec7791.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dcf2d509.js",
+    "static/js/2.94f45c91.chunk.js",
+    "static/css/main.e83077c1.chunk.css",
+    "static/js/main.4dfd2e92.chunk.js"
+  ]
+}
