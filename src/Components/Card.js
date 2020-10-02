@@ -11,17 +11,26 @@ import Werner from '../assets/images/werner.jpeg';
          {  
              id: 1,
              name: 'Callum Hudson Odoi',
-             image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTWRmi9BgjuxNemi_dU_uXYP6wMngvuo3gxtQ&usqp=CAU'
+             image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTWRmi9BgjuxNemi_dU_uXYP6wMngvuo3gxtQ&usqp=CAU',
+             country: 'England',
+             age: 19,
+             team: 'No'
          },
           {
              id: 2,
              name: 'Timo Werner',
-             image: Werner
+             image: Werner,
+             country: 'Germany',
+             age: 22,
+             team: 'Yes'
          },
           {
              id: 3,
              name: 'Reece James',
-             image: Reece
+             image: Reece,
+             country: 'England',
+             age: 20,
+             team: 'No'
          }
         ]
     return (

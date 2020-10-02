@@ -20,6 +20,19 @@
     
 }
 
+.back {
+    box-sizing: border-box;
+    border-radius: 1px;
+    background: black;
+    color: whitesmoke;
+}
+
+.backBox {
+    background-color: white;
+    color: blue;
+    
+}
+
 .img{
     align-items: center;
 }
