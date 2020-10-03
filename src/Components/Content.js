@@ -12,9 +12,7 @@ import Brands from '../assets/images/footer.jpeg';
 const Content = () => {
     return(
         <div>
-            <img id='brand' src={Brands}
-              style={{width: '80%', height: '400px'}}
-            />
+            <img id='brand' src={Brands}/>
             <div className='container'>
               <div>
                 <img className='puli'src={Pulsici} />

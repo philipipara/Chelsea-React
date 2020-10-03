@@ -50,5 +50,10 @@
         box-shadow: 0;
         box-sizing: 0;
     }
+
+    .img {
+        width: 100%;
+        object-fit: scale-down;
+    }
  
 }
