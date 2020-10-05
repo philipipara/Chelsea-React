@@ -30,10 +30,10 @@ const Navigation = (props) => {
         <Collapse isOpen={isOpen} navbar>
           <Nav className="ml-auto" navbar>
             <NavItem>
-              <NavLink href="https://www.chelseamegastore.com/stores/chelsea/en" target='_blank'>Shop</NavLink>
+              <NavLink href="https://www.chelseamegastore.com/stores/chelsea/en" target='_blank'><i class="fas fa-store"></i> Shop</NavLink>
             </NavItem>
             <NavItem>
-              <NavLink href="https://www.chelseafc.com/en" target='_blank'>Team Website</NavLink>
+              <NavLink href="https://www.chelseafc.com/en" target='_blank'> <i class="fas fa-external-link-alt"></i> Team Website</NavLink>
             </NavItem>
             <UncontrolledDropdown nav inNavbar>
               <DropdownToggle nav caret>
