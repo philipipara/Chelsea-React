@@ -37,7 +37,7 @@ const Navigation = (props) => {
             </NavItem>
             <UncontrolledDropdown nav inNavbar>
               <DropdownToggle nav caret>
-                Players
+              <i class="fas fa-users"></i> Teams
               </DropdownToggle>
               <DropdownMenu right>
                 <DropdownItem>
