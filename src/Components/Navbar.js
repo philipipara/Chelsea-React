@@ -37,18 +37,15 @@ const Navigation = (props) => {
             </NavItem>
             <UncontrolledDropdown nav inNavbar>
               <DropdownToggle nav caret>
-                Options
+                Players
               </DropdownToggle>
               <DropdownMenu right>
                 <DropdownItem>
-                  Option 1
-                </DropdownItem>
-                <DropdownItem>
-                  Option 2
+                  <a href="https://www.chelseafc.com/en/teams/first-team?pageTab=players" target='_blank'>Chelsea Men</a>
                 </DropdownItem>
                 <DropdownItem divider />
                 <DropdownItem>
-                  Reset
+                  <a href="https://www.chelseafc.com/en/teams/women?pageTab=players" target='_blank'>Chelse Women</a>
                 </DropdownItem>
               </DropdownMenu>
             </UncontrolledDropdown>
