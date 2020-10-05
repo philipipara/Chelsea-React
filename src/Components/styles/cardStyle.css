@@ -21,7 +21,7 @@
 }
 
 .card:hover {
-    box-shadow: 5px 10px 20px 1px rgba(0, 0, 0, 0.253) !important;
+    box-shadow: 0 7px 30px -10px whitesmoke;
 }
 
 .back {

@@ -10,7 +10,7 @@ import Werner from '../assets/images/werner.jpeg';
      const data = [
          {  
              id: 1,
-             name: 'Callum Hudson Odoi',
+             name: <a href="https://www.chelseamegastore.com/stores/chelsea/en/search/hudson%20odoi" target='_blank'>Callum Hudson-Odoi</a>,
              image: 'https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTWRmi9BgjuxNemi_dU_uXYP6wMngvuo3gxtQ&usqp=CAU',
              country: 'England',
              age: 19,
@@ -18,7 +18,7 @@ import Werner from '../assets/images/werner.jpeg';
          },
           {
              id: 2,
-             name: 'Timo Werner',
+             name: <a href="https://www.chelseamegastore.com/stores/chelsea/en/search/werner" target='_blank'>Timo Werner</a>,
              image: Werner,
              country: 'Germany',
              age: 22,
@@ -26,7 +26,7 @@ import Werner from '../assets/images/werner.jpeg';
          },
           {
              id: 3,
-             name: 'Reece James',
+             name: <a href="https://www.chelseamegastore.com/stores/chelsea/en/search/james" target='_blank'>Recce James</a>,
              image: Reece,
              country: 'England',
              age: 20,
