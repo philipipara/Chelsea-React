@@ -18,10 +18,13 @@
     color: blue;
     
     
+    
 }
 
 .card:hover {
     box-shadow: 0 7px 30px -10px whitesmoke;
+    transform: scale(1.05);
+    transition: transform .3s ease;
 }
 
 .back {
